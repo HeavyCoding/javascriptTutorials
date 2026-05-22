@@ -1,0 +1,143 @@
+# JavaScript Tutorials 🚀
+
+Complete JavaScript learning repository for beginners to advanced developers.  
+This repo contains all JavaScript concepts with examples and practice code.
+ 
+
+## ⚡ Important
+After completing each tutorial, always pull the latest updates from the repository.
+
+bash
+git pull origin master
+
+
+
+ 🚀 Phase 1: JavaScript Fundamentals
+
+Video 1 — Introduction + Setup + Variables
+
+Introduction
+Setup
+var, let, const
+
+Video 2 — Data Types + Type Conversion + Operators
+
+Primitive/Non-Primitive
+Type Conversion & Coercion
+Operators
+
+Video 3 — Conditionals + Loops
+
+if, else, switch
+for, while, for...of, for...in
+
+Video 4 — Functions + Scope
+
+Functions
+Parameters
+Return
+Scope
+
+Video 5 — Arrays + Array Methods
+
+Arrays
+map
+filter
+reduce
+
+Video 6 — Objects + Object Methods
+
+Objects
+Accessing
+Updating
+Methods
+
+Video 7 — String Methods + Date & Math Object
+
+🌐 Phase 2: DOM Mastery
+
+Video 8 — DOM Basics + Selecting Elements
+
+Video 9 — Changing Content + Attributes + Styles
+
+Video 10 — Event Listeners + Event Object
+
+Video 11 — Event Bubbling + Capturing + Delegation
+
+Video 12 — Forms + DOM Traversing
+
+Video 13 — Create/Remove Elements
+
+⚡ Phase 3: Core JavaScript Concepts
+
+Video 14 — Execution Context + Call Stack
+
+Video 15 — Hoisting + TDZ
+
+Video 16 — Lexical Scope + Closures
+
+Video 17 — this Keyword
+
+Video 18 — Call, Apply, Bind
+
+🔄 Phase 4: Asynchronous JavaScript
+
+Video 19 — Sync vs Async + Callbacks
+
+Video 20 — Callback Hell + Promises
+
+Video 21 — Promise Chaining + Promise Methods
+
+Video 22 — Async/Await + Error Handling
+
+Video 23 — Fetch API
+
+Video 24 — Event Loop + Microtask + Macrotask
+
+✨ Phase 5: Modern JavaScript (ES6+)
+
+Video 25 — Arrow Functions + Template Literals + Default Params
+
+Video 26 — Destructuring + Spread + Rest
+
+Video 27 — Optional Chaining + Nullish Coalescing + Modules
+
+🏗️ Phase 6: OOP
+
+Video 28 — Constructor Functions + Prototype
+
+Video 29 — Prototype Chain + Classes
+
+Video 30 — Inheritance + Encapsulation + Polymorphism
+
+🔥 Phase 7: Advanced JavaScript
+
+Video 31 — Higher Order Functions + Pure Functions
+
+Video 32 — Currying + Memoization
+
+Video 33 — Debouncing + Throttling
+
+Video 34 — Generators + Iterators
+
+Video 35 — Symbols + Sets + Maps + WeakMaps
+
+🎯 Phase 8: Deep Dive
+
+Video 36 — Deep Copy + Shallow Copy + Pass by Value/Reference
+
+Video 37 — Garbage Collection + Memory Management
+
+Video 38 — Function Borrowing + Polyfills
+
+Video 39 — Debounce + Throttle + Promise Polyfills
+
+💾 Phase 9: Browser APIs & Storage
+
+Video 40 — LocalStorage + SessionStorage + Cookies
+
+Video 41 — JSON.stringify + JSON.parse + Storage Events
+
+Video 42 — History API + Clipboard API + Geolocation API
+
+Video 43 — Web Workers
