@@ -38,4 +38,4 @@ function sum() {
 }
 
 let addition = sum();
-console.log(addition)
+console.log(addition) 
